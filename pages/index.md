@@ -1,23 +1,46 @@
 ---
-title: Anthony Fu
+title: Bowen Su
 description: Anthony Fu's Portfolio
 image: https://antfu.me/og.png
 art: random
 ---
 
-Hey, I am Anthony Fu, a fanatical open sourceror.
+# Personal Information
 
-Working at {NuxtLabs}<br>
-Creator of {Vitest} {Slidev} {VueUse} {UnoCSS} {Elk} {Type Challenges}<br>
-Core team of {Vue} {Nuxt} {Vite}<br>
-Maintaining {Shiki} {Twoslash} {ESLint Stylistic}
+**Name**: Bowen Su  
+**Phone**: +1 (517) 5053-563  
+**Email**: subowen@msu.edu  
+**Location**: East Lansing, MI
 
-Dreaming up ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects). I also do some generative-art, compform, interactivity experiments on [100.antfu.me](https://100.antfu.me/).
+---
 
-I give [talks](/talks) and write [blog posts](/posts) about open source, coding, tutorials, etc. Occasionally, I also do some coding live streams on [YouTube](https://www.youtube.com/anthonyfu7) and [哔哩哔哩](https://space.bilibili.com/668380).
+## Research Interests
+- (Random) Numerical methods and their applications in Computational (Data) Science and Engineering  
+- High-performance computing
 
-Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Instagram](https://www.instagram.com/antfu7). Right now I live in Paris. If you are around, feel free to reach me out, we could have some coffee or work together.
+---
 
+## Education
+
+- **Ph.D. in Applied Mathematics with a Certificate in High-Performance Computing**  
+  Michigan State University, 09/2020 – Present  
+- **M.S. in Computer Science**  
+  Michigan State University, 04/2022 – 05/2024  
+- **M.S. in Mathematics**  
+  Nankai University, 09/2017 – 08/2020  
+- **B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)**  
+  Jilin University, 09/2013 – 08/2017
+
+---
+
+## Working Experience
+
+- **Graduate Intern**  
+  Los Alamos National Laboratory (LANL) (On-site), 05/2024 – 08/2024
+
+---
+
+I give [talks](/talks) and write [blog posts](/posts) about open source, coding, tutorials, etc. 
 <div flex-auto />
 
 ---
