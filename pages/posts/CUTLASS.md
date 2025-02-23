@@ -1,3 +1,12 @@
+---
+title: Find Gold
+description: Wish this is the end.
+date: 2022-05-19T22:00:00.000+00:00
+lang: zh
+duration: 2day
+subtitle: 'Author: Simon'
+---
+
 # Nvidia CUTLASS: Introduction and Installation Guide
 
 This blog post provides an introduction to two essential NVIDIA GPU-accelerated libraries, **CUTLASS** and **cuBLAS**, along with step-by-step instructions to install and set them up for your projects.
