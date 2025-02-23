@@ -1,9 +1,3 @@
----
-title: Bowen Su
----
-
-# Personal Information
-
 **Name**: Bowen Su  
 **Email**: subowen@msu.edu  
 **Location**: East Lansing, MI
@@ -18,57 +12,32 @@ title: Bowen Su
 
 ## Education
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="font-weight: bold;">Michigan State University</div>
-    <div style="font-weight: bold;">09/2020 – 04/2025</div>
-  </div>
-  <div style="margin-top: 4px; text-align: left;">
-    Ph.D. in Applied Mathematics
-  </div>
-</div>
+| **School**                               | **Time**             |
+| ---------------------------------------- | --------------------:|
+| **Michigan State University**            | **09/2020 – 04/2025**  |
+| _Ph.D. in Applied Mathematics_           |                      |
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="font-weight: bold;">Michigan State University</div>
-    <div style="font-weight: bold;">04/2022 – 05/2024</div>
-  </div>
-  <div style="margin-top: 4px; text-align: left;">
-    M.S. in Computer Science
-  </div>
-</div>
+| **School**                               | **Time**             |
+| ---------------------------------------- | --------------------:|
+| **Michigan State University**            | **04/2022 – 05/2024**  |
+| _M.S. in Computer Science_               |                      |
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="font-weight: bold;">Nankai University</div>
-    <div style="font-weight: bold;">09/2017 – 08/2020</div>
-  </div>
-  <div style="margin-top: 4px; text-align: left;">
-    M.S. in Mathematics
-  </div>
-</div>
+| **School**                               | **Time**             |
+| ---------------------------------------- | --------------------:|
+| **Nankai University**                    | **09/2017 – 08/2020**  |
+| _M.S. in Mathematics_                    |                      |
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="font-weight: bold;">Jilin University</div>
-    <div style="font-weight: bold;">09/2013 – 08/2017</div>
-  </div>
-  <div style="margin-top: 4px; text-align: left;">
-    B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)
-  </div>
-</div>
+| **School**                               | **Time**             |
+| ---------------------------------------- | --------------------:|
+| **Jilin University**                     | **09/2013 – 08/2017**  |
+| _B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)_ |  |
 
 ## Working Experience
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="font-weight: bold;">Los Alamos National Laboratory (LANL)</div>
-    <div style="font-weight: bold;">05/2024 – 08/2024</div>
-  </div>
-  <div style="margin-top: 4px; text-align: left;">
-    Graduate Research Assistant (On Site)
-  </div>
-</div>
+| **Organization**                         | **Time**             |
+| ---------------------------------------- | --------------------:|
+| **Los Alamos National Laboratory (LANL)**| **05/2024 – 08/2024**  |
+| _Graduate Research Assistant (On Site)_  |                      |
 
 
 
