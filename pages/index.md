@@ -13,30 +13,32 @@ I give [talks](/talks) and write [blog posts](/posts) about open source, coding,
 
 ## Education
 
-**Michigan State University** ................................................................ **09/2020 – 04/2025**  
+**Michigan State University** <span style="float:right;">09/2020 – 04/2025</span>  
 _Ph.D. in Applied Mathematics_
 
-**Michigan State University** ................................................................ **04/2022 – 05/2024**  
+<div style="clear: both;"></div>
+
+**Michigan State University** <span style="float:right;">04/2022 – 05/2024</span>  
 _M.S. in Computer Science_
 
-**Nankai University** .......................................................................... **09/2017 – 08/2020**  
+<div style="clear: both;"></div>
+
+**Nankai University** <span style="float:right;">09/2017 – 08/2020</span>  
 _M.S. in Mathematics_
 
-**Jilin University** ............................................................................. **09/2013 – 08/2017**  
-_B.A. in Tang Aoqing Honors Program_
+<div style="clear: both;"></div>
+
+**Jilin University** <span style="float:right;">09/2013 – 08/2017</span>  
+_B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)_
+
+<div style="clear: both;"></div>
 
 ## Working Experience
 
-**Los Alamos National Laboratory (LANL)** .............................................. **05/2024 – 08/2024**  
+**Los Alamos National Laboratory (LANL)** <span style="float:right;">05/2024 – 08/2024</span>  
 _Graduate Research Assistant (On Site)_
 
-
-
-
-
-
-
-
+<div style="clear: both;"></div>
 
 
 
