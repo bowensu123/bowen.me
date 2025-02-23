@@ -14,7 +14,7 @@ I write [blog posts](/posts) about open source, coding, tutorials, etc.
 ## Education
 
 **Michigan State University** <span style="float:right;">09/2020 – 04/2025</span>  
-_Ph.D. in Applied Mathematics (advisor: Andrew Christlieb)_
+_Ph.D. in Applied Mathematics_
 
 <div style="clear: both;"></div>
 
