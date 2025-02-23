@@ -42,7 +42,7 @@ art: random
   ➤ **05/2024 – 08/2024**
 
 I give [talks](/talks) and write [blog posts](/posts) about open source, coding, tutorials, etc. 
-<div flex-auto />
+
 
 
 
