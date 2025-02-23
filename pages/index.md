@@ -8,7 +8,6 @@ art: random
 # Personal Information
 
 **Name**: Bowen Su  
-**Phone**: +1 (517) 5053-563  
 **Email**: subowen@msu.edu  
 **Location**: East Lansing, MI
 
@@ -22,14 +21,22 @@ art: random
 
 ## Education
 
-- **Ph.D. in Applied Mathematics with a Certificate in High-Performance Computing**  
-  Michigan State University, 09/2020 – Present  
+- **Ph.D. in Applied Mathematics**  
+  _Michigan State University_  
+  ➤ **09/2020 – Present**
+
 - **M.S. in Computer Science**  
-  Michigan State University, 04/2022 – 05/2024  
+  _Michigan State University_  
+  ➤ **04/2022 – 05/2024**
+
 - **M.S. in Mathematics**  
-  Nankai University, 09/2017 – 08/2020  
+  _Nankai University_  
+  ➤ **09/2017 – 08/2020**
+
 - **B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)**  
-  Jilin University, 09/2013 – 08/2017
+  _Jilin University_  
+  ➤ **09/2013 – 08/2017**
+
 
 ---
 
