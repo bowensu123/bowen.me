@@ -1,6 +1,5 @@
 ---
 title: Bowen Su
-description: Bowen Su's Portfolio
 image: https://antfu.me/og.png
 art: random
 ---
@@ -37,9 +36,6 @@ art: random
   _Jilin University_  
   ➤ **09/2013 – 08/2017**
 
-
----
-
 ## Working Experience
 
 - **Graduate research assistant(On Site)**  
@@ -51,11 +47,6 @@ art: random
 I give [talks](/talks) and write [blog posts](/posts) about open source, coding, tutorials, etc. 
 <div flex-auto />
 
----
 
-
-
-
----
 
 <SponsorButtons />
