@@ -49,4 +49,4 @@ I give [talks](/talks) and write [blog posts](/posts) about open source, coding,
 
 
 
-<SponsorButtons />
+
