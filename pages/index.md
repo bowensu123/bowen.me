@@ -1,7 +1,7 @@
 ---
 title: 
 ---
-I give [talks](/talks) and write [blog posts](/posts) about open source, coding, tutorials, etc. 
+I write [blog posts](/posts) about open source, coding, tutorials, etc. 
 
 **Name**: Bowen Su  
 **Email**: subowen@msu.edu  
