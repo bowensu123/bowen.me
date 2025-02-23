@@ -18,16 +18,16 @@ title: Bowen Su
 
 ## Education
 
-- _Michigan State University_ <span style="margin-left:20px;">➤ **09/2020 – 04/2025**</span>  
+- _Michigan State University_ <span style="margin-left:200px;">➤ **09/2020 – 04/2025**</span>  
   **Ph.D. in Applied Mathematics**
 
-- _Michigan State University_ <span style="margin-left:20px;">➤ **04/2022 – 05/2024**</span>  
+- _Michigan State University_ <span style="margin-left:200px;">➤ **04/2022 – 05/2024**</span>  
   **M.S. in Computer Science**
 
-- _Nankai University_ <span style="margin-left:20px;">➤ **09/2017 – 08/2020**</span>  
+- _Nankai University_ <span style="margin-left:200px;">➤ **09/2017 – 08/2020**</span>  
   **M.S. in Mathematics**
 
-- _Jilin University_ <span style="margin-left:20px;">➤ **09/2013 – 08/2017**</span>  
+- _Jilin University_ <span style="margin-left:200px;">➤ **09/2013 – 08/2017**</span>  
   **B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)**
 
 ## Working Experience
