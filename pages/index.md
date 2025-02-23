@@ -23,7 +23,7 @@ _M.S. in Computer Science_
 _M.S. in Mathematics_
 
 **Jilin University** ............................................................................. **09/2013 – 08/2017**  
-_B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)_
+_B.A. in Tang Aoqing Honors Program_
 
 ## Working Experience
 
