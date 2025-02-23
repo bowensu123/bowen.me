@@ -23,7 +23,7 @@ title: Bowen Su
   <!-- 第一项 -->
   <div style="display: flex; justify-content: space-between; align-items: baseline;">
     <span style="font-weight: bold;">Michigan State University</span>
-    <span style="font-weight: bold; margin-left: 20px;">09/2020 – 04/2025</span>
+    <span style="font-weight: bold; margin-left: 2000px;">09/2020 – 04/2025</span>
   </div>
   <div style="margin-top: 4px; margin-left: 10px;">
     Ph.D. in Applied Mathematics
