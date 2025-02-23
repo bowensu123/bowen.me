@@ -117,12 +117,15 @@ items:
 
 <SubNav />
 
+<!--
 <div slide-enter>
 
-<div i-ri:vidicon-2-line mr2 />
-<span op50>Live streaming at <a href="https://www.youtube.com/anthonyfu7" target="_blank">YouTube</a> & <a href="https://space.bilibili.com/668380" target="_blank">哔哩哔哩</a></span>
+  <div i-ri:vidicon-2-line mr2 />
+  <span op50>Live streaming at <a href="https://www.youtube.com/anthonyfu7" target="_blank">YouTube</a> & <a href="https://space.bilibili.com/668380" target="_blank">哔哩哔哩</a></span>
 
 </div>
+-->
+
 
 <StreamAnnouncement />
 
