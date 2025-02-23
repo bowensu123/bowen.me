@@ -29,7 +29,7 @@ declare module 'vue-router/auto-routes' {
     '/notes': RouteRecordInfo<'/notes', '/notes', Record<never, never>, Record<never, never>>,
     '/podcasts': RouteRecordInfo<'/podcasts', '/podcasts', Record<never, never>, Record<never, never>>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
-    '/posts/CUTLASS': RouteRecordInfo<'/posts/CUTLASS', '/posts/CUTLASS, Record<never, never>, Record<never, never>>,
+    '/posts/CUTLASS': RouteRecordInfo<'/posts/CUTLASS', '/posts/CUTLASS', Record<never, never>, Record<never, never>>,
  
   }
 }
