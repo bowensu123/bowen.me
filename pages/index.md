@@ -14,7 +14,7 @@ I give [talks](/talks) and write [blog posts](/posts) about open source, coding,
 ## Education
 
 **Michigan State University** <span style="float:right;">09/2020 – 04/2025</span>  
-_Ph.D. in Applied Mathematics_
+_Ph.D. in Applied Mathematics (advisor: Andrew Christlieb)_
 
 <div style="clear: both;"></div>
 
@@ -29,7 +29,7 @@ _M.S. in Mathematics_
 <div style="clear: both;"></div>
 
 **Jilin University** <span style="float:right;">09/2013 – 08/2017</span>  
-_B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)_
+_B.A. in Tang Aoqing Math Honors Program_
 
 <div style="clear: both;"></div>
 
