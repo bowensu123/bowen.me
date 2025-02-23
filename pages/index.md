@@ -55,7 +55,6 @@ I give [talks](/talks) and write [blog posts](/posts) about open source, coding,
 
 
 
-Or mail me at <span font-mono>hi<span i-carbon-at/>antfu.me</span>
 
 ---
 
