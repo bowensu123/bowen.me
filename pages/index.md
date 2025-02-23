@@ -19,62 +19,66 @@ title: Bowen Su
 
 ## Education
 
-<div style="margin-bottom: 1em;">
-  <!-- 第一项 -->
-  <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <span style="font-weight: bold;">Michigan State University</span>
-    <span style="font-weight: bold; margin-left: 2000px;">09/2020 – 04/2025</span>
-  </div>
-  <div style="margin-top: 4px; margin-left: 10px;">
-    Ph.D. in Applied Mathematics
-  </div>
-</div>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="font-weight:bold; text-align:left;">Michigan State University</td>
+    <td style="font-weight:bold; text-align:right; padding-left:50px;">09/2020 – 04/2025</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-left:10px; padding-top:4px;">Ph.D. in Applied Mathematics</td>
+  </tr>
+</table>
 
-<div style="margin-bottom: 1em;">
-  <!-- 第二项 -->
-  <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <span style="font-weight: bold;">Michigan State University</span>
-    <span style="font-weight: bold; margin-left: 20px;">04/2022 – 05/2024</span>
-  </div>
-  <div style="margin-top: 4px; margin-left: 10px;">
-    M.S. in Computer Science
-  </div>
-</div>
+<br>
 
-<div style="margin-bottom: 1em;">
-  <!-- 第三项 -->
-  <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <span style="font-weight: bold;">Nankai University</span>
-    <span style="font-weight: bold; margin-left: 20px;">09/2017 – 08/2020</span>
-  </div>
-  <div style="margin-top: 4px; margin-left: 10px;">
-    M.S. in Mathematics
-  </div>
-</div>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="font-weight:bold; text-align:left;">Michigan State University</td>
+    <td style="font-weight:bold; text-align:right; padding-left:50px;">04/2022 – 05/2024</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-left:10px; padding-top:4px;">M.S. in Computer Science</td>
+  </tr>
+</table>
 
-<div style="margin-bottom: 1em;">
-  <!-- 第四项 -->
-  <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <span style="font-weight: bold;">Jilin University</span>
-    <span style="font-weight: bold; margin-left: 20px;">09/2013 – 08/2017</span>
-  </div>
-  <div style="margin-top: 4px; margin-left: 10px;">
-    B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)
-  </div>
-</div>
+<br>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="font-weight:bold; text-align:left;">Nankai University</td>
+    <td style="font-weight:bold; text-align:right; padding-left:50px;">09/2017 – 08/2020</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-left:10px; padding-top:4px;">M.S. in Mathematics</td>
+  </tr>
+</table>
+
+<br>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="font-weight:bold; text-align:left;">Jilin University</td>
+    <td style="font-weight:bold; text-align:right; padding-left:50px;">09/2013 – 08/2017</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-left:10px; padding-top:4px;">B.A. in Mathematics and Applied Mathematics (Tang Aoqing Honors Program)</td>
+  </tr>
+</table>
+
+<br>
 
 ## Working Experience
 
-<div style="margin-bottom: 1em;">
-  <!-- 工作经历 -->
-  <div style="display: flex; justify-content: space-between; align-items: baseline;">
-    <span style="font-weight: bold;">Los Alamos National Laboratory (LANL)</span>
-    <span style="font-weight: bold; margin-left: 20px;">05/2024 – 08/2024</span>
-  </div>
-  <div style="margin-top: 4px; margin-left: 10px;">
-    Graduate Research Assistant (On Site)
-  </div>
-</div>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="font-weight:bold; text-align:left;">Los Alamos National Laboratory (LANL)</td>
+    <td style="font-weight:bold; text-align:right; padding-left:50px;">05/2024 – 08/2024</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-left:10px; padding-top:4px;">Graduate Research Assistant (On Site)</td>
+  </tr>
+</table>
+
 
 
 
